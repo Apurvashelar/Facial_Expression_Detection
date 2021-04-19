@@ -32,7 +32,12 @@ We achieved this by training our CNN model with large dataset. We have used the 
 
 #### Input Image
 
-![input](https://user-images.githubusercontent.com/57897678/115274164-0488bd00-a15e-11eb-85c6-327e1b00e688.png)
+![input](https://user-images.githubusercontent.com/57897678/115274164-0488bd00-a15e-11eb-85c6-327e1b00e688.png)  
+
+#### Output Image  
+
+![output](https://user-images.githubusercontent.com/57897678/115274543-69441780-a15e-11eb-96dd-82b2e6dd8a5a.png)
+
 
 
 
